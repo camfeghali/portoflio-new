@@ -18,7 +18,6 @@ const Sidebar = ({ profile, social }) => (
                     <ProfileImage image={profile.image} name={profile.name} />
                 )}
                 <br />
-                bro
                 {profile.location && (
                     <Location
                         location={profile.location}
