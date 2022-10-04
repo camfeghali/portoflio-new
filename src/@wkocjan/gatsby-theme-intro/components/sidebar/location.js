@@ -13,7 +13,7 @@ const Location = ({ location, relocation }) => (
             </span>
         </div>
         <div className="text-xs uppercase mt-2 font-semibold text-front font-header">
-            And the World
+            New York, Beirut & the World
         </div>
         {relocation && (
             <div className="text-xs uppercase mt-2 font-semibold text-front font-header">

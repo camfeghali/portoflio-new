@@ -7,19 +7,19 @@
   relocation: false
   company: Pets Deli
   for_hire: true
-  focus: Web Services
+  focus: The Web
   focus_url: https://en.wikipedia.org/wiki/Web_service
   about: |
       Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
 
       User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
   skills:
-      - Fullstack Development
-      - Backend Services
-      - Frontend Clients
-      - Serverless Infrastructure
-      - Microservices
-      - AWS Cloud
+      - Blazing Fast Websites
+      - Business Process Automation
+      - Web Application Development
+      - Serverless Architectures
+      - DevOps Tooling
+      - 3rd Party API Integration
 
   tools:
       - Typescript
