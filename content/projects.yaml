@@ -1,6 +1,6 @@
 - name: Pets Deli Microservices
   url: https://www.petsdeli.de/
-  description: Premium Pet Food Services.
+  description: "Pets Deli's backend infrastructure supports daily business operations which include but are not limited to: Ordering, Fulfillment, Customer Support & Analytics"
   status: live
   tags:
       - AWS Cloud
@@ -34,7 +34,7 @@
       - PostgreSQL
       - Konva
       - Forest Admin
-      - Linux
+      - Ubuntu
   icon: website
 
 - name: RARECAST

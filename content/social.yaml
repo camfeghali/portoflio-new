@@ -1,8 +1,8 @@
 - name: linkedin
-  url: https://linkedin.com/in/username
+  url: https://www.linkedin.com/in/camille-feghali-466143aa/
 
 - name: twitter
-  url: https://twitter.com/username
+  url:
 
 - name: facebook
   url:
@@ -20,7 +20,7 @@
   url:
 
 - name: github
-  url: https://github.com/username
+  url: https://github.com/camfeghali
 
 - name: goodreads
   url:
@@ -32,5 +32,4 @@
   url:
 
 - name: medium
-  url:
-
+  url: https://medium.com/@camfeg
