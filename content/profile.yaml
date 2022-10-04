@@ -9,14 +9,14 @@
   for_hire: true
   focus: Web Services
   focus_url: https://en.wikipedia.org/wiki/Web_service
-  about: I like clean code and composable software. I pride myself on building things that help businesses grow and achieve their bottom line. My experience across all phases of software development and many industries allow me to work on ambiguous projects and provide clients with tangible solutions to their business needs.
+  about: I like clean code and composable software. I pride myself on building things that help businesses grow and improve their bottom line. My experience across all phases of software development and many industries allow me to work on ambiguous projects and provide clients with tangible solutions to their business needs.
   skills:
-      - Blazing Fast Websites
+      - Blazingly Fast Websites
       - Business Process Automation
       - Web Application Development
       - Serverless Architectures
       - DevOps Tooling
-      - 3rd Party API Integration
+      - 3rd Party API Integrations
 
   tools:
       - Typescript
