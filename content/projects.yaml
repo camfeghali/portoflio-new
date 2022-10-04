@@ -1,6 +1,6 @@
 - name: Pets Deli Microservices
   url: https://www.petsdeli.de/
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+  description: Premium Pet Food Services.
   status: live
   tags:
       - AWS Cloud
@@ -12,7 +12,7 @@
 
 - name: Megaphone News
   url: "https://megaphone.news/"
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  description: Megaphone is an online independent media platform. We produce explainer multimedia content that covers current affairs and social and cultural commentaries, in formats adapted for the digital media. Megaphone is politically independent and our funding does not impose editorial restrictions, thus ensuring our editorial line remains uncompromised.
   status: live
   tags:
       - Ruby on Rails
@@ -25,7 +25,7 @@
 
 - name: Foxxbee's 2D Furniture Visualizer
   url: ""
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  description: Foxxbee makes shopping for interior design more personal, digital and easy.
   # status: live
   tags:
       - Gatsby
@@ -39,7 +39,7 @@
 
 - name: RARECAST
   url: "https://globalgenes.org/rare-cast/"
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  description: Global Genes' podcast platform.
   status: live
   tags:
       - ReactJS
@@ -50,13 +50,13 @@
 
 - name: AGRITECTURE DESIGNER
   url: "https://www.agritecture.com/modeling-tool"
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  description: The world’s first digital platform for planning urban farms.
   tags:
       - ReactJS
   icon: website
 
 - name: Load Shedding Agent
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  description: Building Automation Administration Interface to shave peak electricity load in LaGuardia Community College.
   tags:
       - Python
       - Django
@@ -66,7 +66,8 @@
 
 - name: CancerCare
   url: "https://www.cancercare.org/"
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  description: CancerCare is the leading organization in the U.S providing free, professional support services and information to help people manage the emotional, practical and financial challenges of cancer.
+  status: live
   tags:
       - Ruby on Rails
   icon: website
